@@ -2,7 +2,8 @@
 
 A modern, responsive analytics dashboard built with Next.js, featuring real-time revenue tracking, inventory management, and product registration capabilities.
 
-![StoreFlow Dashboard](https://images.pexels.com/photos/7654905/pexels-photo-7654905.jpeg)
+![StoreFlow Dashboard](![Screenshot 2025-05-26 222145](https://github.com/user-attachments/assets/3be8cbb2-0659-474c-a011-e167fac7a50f)
+)
 
 ## Features
 
